@@ -49,8 +49,8 @@ LABEL \
     org.opencontainers.image.authors="" \
     org.opencontainers.image.licenses="MIT" \
     org.opencontainers.image.url="" \
-    org.opencontainers.image.source="https://github.com/psallandre/hassio-addons" \
-    org.opencontainers.image.documentation="https://github.com/psallandre/hassio-addons/blob/master/README.md" \
+    org.opencontainers.image.source="https://github.com/rudertier/hassio-addons" \
+    org.opencontainers.image.documentation="https://github.com/rudertier/hassio-addons/blob/master/README.md" \
     org.opencontainers.image.created=${BUILD_DATE} \
     org.opencontainers.image.revision=${BUILD_REF} \
     org.opencontainers.image.version=${BUILD_VERSION}
